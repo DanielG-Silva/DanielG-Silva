@@ -1,4 +1,4 @@
-
+![Augusta](https://raw.githubusercontent.com/DanielG-Silva/DanielG-Silva/refs/heads/main/augusta-convene-animation.gif)
 <!--
 **DanielG-Silva/DanielG-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
