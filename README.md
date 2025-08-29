@@ -1,4 +1,4 @@
-![Oi](https://tenor.com/shsdx4rrtri.gif)
+[Oi](https://tenor.com/shsdx4rrtri.gif)
 
 
 <!--
