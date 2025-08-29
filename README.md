@@ -1,4 +1,3 @@
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpeDR0d2Q3ZjJjc3VmeGY4ODIzaHdnajJ4a2Vzbmkwb25ra2g2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
 
 <!--
 **DanielG-Silva/DanielG-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
