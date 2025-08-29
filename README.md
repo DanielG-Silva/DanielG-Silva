@@ -9,6 +9,6 @@
 - Atualmente explorando Java, Puthon, CSS e HTML!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielG-Silva/DanielG-Silva/refs/heads/main/augusta-convene-animation.gif" width="1500" />
+  <img src="https://raw.githubusercontent.com/DanielG-Silva/DanielG-Silva/refs/heads/main/cartethiya-fleurdelys.gif" width="1500" />
 </p>
 
