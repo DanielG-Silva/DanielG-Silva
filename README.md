@@ -10,9 +10,8 @@
 
 <img align="right" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="230" alt="GIF Lateral"/>
 
-- 🎓 Atualmente no **6° período**
-- 💻 Gosto de **Java, C#, HTML, SQL**
-- ⚡ Curiosidade: **[Sua Curiosidade]**
+-  Atualmente no **6° período**
+-  Gosto de **Java, C#, HTML, SQL**
 
 <br clear="right"/>
 
@@ -24,15 +23,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,html,css,mysql,git,github,vscode" />
   </a>
-</p>
-
----
-
-### Estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB_AQUI&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB_AQUI&layout=compact&theme=dark"/>
 </p>
 
 ---
