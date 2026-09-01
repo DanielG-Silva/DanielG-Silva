@@ -1,14 +1,52 @@
-# Olá, bem-vindo ao meu perfil!
+# Olá, eu sou Daniel!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielG-Silva/DanielG-Silva/refs/heads/main/augusta-convene-animation.gif" width="1500" />
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-6.gif" width="100%" alt="Header Banner Lofi"/>
 </p>
 
-## Sobre mim
-- Desenvolvedor(a) apaixonado(a) por tecnologia  
-- Atualmente explorando Java, Python, CSS e HTML!
+---
+
+### Sobre Mim
+
+<img align="right" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="230" alt="GIF Lateral"/>
+
+- 🎓 Atualmente no **6° período**
+- 💻 Gosto de **Java, C#, HTML, SQL**
+- ⚡ Curiosidade: **[Sua Curiosidade]**
+
+<br clear="right"/>
+
+---
+
+### Linguagens e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,html,css,mysql,git,github,vscode" />
+  </a>
+</p>
+
+---
+
+### Estatísticas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielG-Silva/DanielG-Silva/refs/heads/main/cartethiya-fleurdelys.gif" width="1500" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB_AQUI&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB_AQUI&layout=compact&theme=dark"/>
 </p>
 
+---
+
+### Redes Sociais
+
+<p align="center">
+  <a href="https://www.instagram.com/danyel_.hg1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="42" height="42" alt="Instagram" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bc/41/91/bc41918379984284fae4ac610e0c328a.jpg" width="350px" alt="Imagem Rodapé"/>
+</p>
